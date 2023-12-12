@@ -73,7 +73,7 @@ echo"key of value blue is :"."$search".'<br>';
 $search1=array_search('black',$colours1);
 echo"key of value black is :"."$search1".'<br>';
 $search2=array_search('yellow',$colours2);
-echo"key of value yellow is :"."$search2".'<br>';
+echo"key of value yellow is :"."$search2".'<br>'.'<br>';
 
 
 //Make Your Own Valid Function/s to Protect form.php data [not accept empty inputs and validate every string input
